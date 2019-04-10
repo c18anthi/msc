@@ -28,7 +28,7 @@
 *  Ονοματεπώνυμο: **Κορίνα Άνθη**
 *  Αριθμός Μητρώου: **ΠΚΜ201806**
 *  Θέμα εργασίας **"Βιογραφικό"**
-*  Ισοτσελίδα με το [βιογραφικό :](https://c18anthi.github.io/online-cv/)
+*  Ισοτσελίδα με το [βιογραφικό](https://c18anthi.github.io/online-cv/)
 *  Link για το εκτελέσιμο: [Link Εκτελέσιμου](https://p13koka.github.io/pacman/)
 *  Link για το πρώτο bonus(1 μονάδα): [Link Bonus GitHub Pages](https://p13koka.github.io/sw/projects/2013022/)
 
